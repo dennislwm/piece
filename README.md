@@ -42,7 +42,8 @@ docker run -it --rm ghcr.io/openbb-finance/openbbterminal-poetry:latest
 
 ---
 # Lab Exercises
-- [ ] [Lab 01. - Hello Apple](./lab/01-hello-apple/LAB-01.md#table-of-contents)
+- [X] [Lab 01. - Hello Apple](./lab/01-hello-apple/LAB-01.md#table-of-contents)
+- [ ] [Lab 02. - Basic Data](./lab/02-basic-data/LAB-02.md#table-of-contents)
 
 ---
 # Project structure
